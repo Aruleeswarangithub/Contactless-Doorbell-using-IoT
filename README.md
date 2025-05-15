@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f818f22f-2546-4086-ba78-322a83705ecd)# 🚪🔔 Contactless Doorbell Using IoT
+🚪🔔 Contactless Doorbell Using IoT
 
 Hey, it's **Aruleeswaran**, your **tech buddy**! 👋  
 Welcome to my **IoT-powered Contactless Doorbell** – a **smart and hygienic** solution for modern homes. Let's create **safe, touch-free experiences** together! 🏡💡
@@ -60,7 +60,7 @@ Welcome to my **IoT-powered Contactless Doorbell** – a **smart and hygienic** 
 
 ## 🖼️ Circuit Diagram
 
-Insert your diagram here:  
+
 ![Circuit Diagram](https://ik.imagekit.io/ina6eaq0k/circuit_diagram.png?updatedAt=1747311847201)
 
 
