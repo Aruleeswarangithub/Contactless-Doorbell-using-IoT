@@ -80,27 +80,26 @@ Open the Arduino Code
 
 Open the .ino file located in the cloned project folder.
 
-Connect Your Arduino UNO
-
+**3. Connect Your Arduino UNO**
 Plug the Arduino UNO into your computer via USB.
 
 In Arduino IDE, go to Tools → Board → Select Arduino UNO.
 
 Go to Tools → Port → Select the correct COM port.
 
-Upload the Code
+**4. Upload the Code**
 
 Click ✅ Verify to compile the code.
 
 Click 🔼 Upload to flash the code to the board.
 
-Build the Circuit
+**5. Build the Circuit**
 
 Connect components: Ultrasonic sensor, LM35 sensor, LEDs, LCD, Buzzer, and GSM Module.
 
 Power the circuit using USB or a 12V adapter.
 
-Test the System
+**6. Test the System**
 
 Wave your hand in front of the ultrasonic sensor.
 
