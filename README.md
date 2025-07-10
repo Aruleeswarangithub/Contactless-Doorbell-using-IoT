@@ -73,6 +73,7 @@ Welcome to my **IoT-powered Contactless Doorbell** – a **smart and hygienic** 
 ```bash
 git clone https://github.com/Aruleeswarangithub/contactless-doorbell-iot.git
 cd contactless-doorbell-iot
+```
 Open the Arduino Code
 
 **2. Launch the Arduino IDE.**
