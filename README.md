@@ -75,13 +75,13 @@ git clone https://github.com/Aruleeswarangithub/contactless-doorbell-iot.git
 cd contactless-doorbell-iot
 
 2. Open the Arduino Code
-
+```bash
 Launch the Arduino IDE.
 
 Open the .ino file located in the cloned project folder.
 
 3. Connect Your Arduino UNO
-
+```bash
 Plug the Arduino UNO into your computer via USB.
 
 In Arduino IDE, go to Tools → Board → Select Arduino UNO.
@@ -89,19 +89,19 @@ In Arduino IDE, go to Tools → Board → Select Arduino UNO.
 Go to Tools → Port → Select the correct COM port.
 
 4. Upload the Code
-
+```bash
 Click ✅ Verify to compile the code.
 
 Click 🔼 Upload to flash the code to the board.
 
 5. Build the Circuit
-
+```bash
 Connect components: Ultrasonic sensor, LM35 sensor, LEDs, LCD, Buzzer, and GSM Module.
 
 Power the circuit using USB or 12V adapter.
 
 6. Test the System
-
+```bash
 Wave your hand in front of the ultrasonic sensor.
 
 The system will check body temperature using LM35.
