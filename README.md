@@ -21,7 +21,6 @@ Welcome to my **IoT-powered Contactless Doorbell** – a **smart and hygienic** 
 ## 🎥 Demo Video
 
 🎬 **See it in action!**  
-[![Watch the demo](https://go.screenpal.com/watch/cZQq2NVSbsU ![image](https://github.com/user-attachments/assets/7da4560c-3f76-413d-94f5-972b06e3a810))  
 
 **Live Demo:** [Click here to view the live app](https://go.screenpal.com/watch/cZQq2NVSbsU)
 ---
